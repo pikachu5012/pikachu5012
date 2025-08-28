@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mohamed Abdeen 👋</h1>
+<h1 align="center">Hi there, I'm Ahmed Mohammed 👋</h1>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/80816700-8dce-4e66-852c-6706d9167083" width="200"/>
